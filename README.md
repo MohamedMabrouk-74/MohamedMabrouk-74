@@ -1,15 +1,23 @@
 <h1 align="center">Hi, I'm Mohamed Mabrouk  👋</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1200&lines=Front+End;Software+Engineer;React.js;)](https://git.io/typing-svg)
+
 <h3 align="center">Software Engineer | Frontend Devoleper | React.js </h3>
+
+<img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/Line.gif" width="100%"/>
+
+
 
 <p align="center">
    <a href="(https://www.linkedin.com/in/mohamed-mabrouk-44080b388)"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
-  <!-- <a href="(https://www.linkedin.com/in/mohamed-mabrouk-44080b388)" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a> -->
-  <!-- <a href="(https://www.linkedin.com/in/mohamed-mabrouk-44080b388)"><img src=""/></a> -->
-  <!-- <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Learn_Simply-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://facebook.com/ahmed.learnsimply"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://learrnsimply.com"><img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> -->
+    <a href="(https://www.mohamedmabrouk252@gmail.com)"><img src="https://skillicons.dev/icons?i=gmail" /></a> 
+   <a href="https://www.facebook.com/MohamedMabrouk"  style="text-decoration: none;" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="71" height="51" alt="facebook logo" />
+  </a>
+  <a href="https://www.instagram.com/mohamedmabrouk_74"  style="text-decoration: none;" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="71" height="51" alt="instagram logo" />
+  </a>
+   
 </p>
 
 ---
@@ -47,7 +55,16 @@ class MohamedMabrouk {
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,tailwind,javascript,react,vscode,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,tailwind,javascript,react" />
+</p>
+
+---
+
+---
+### Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github" />
 </p>
 
 ---
